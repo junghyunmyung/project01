@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+D:\k_digital_ksr\NEW_Project\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1951184132.index
+1371920324.index
+2706993020.index
+1023747790.index
+1985753528.index
